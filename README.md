@@ -1,6 +1,6 @@
 # lol
 
-![](./assets/lol.mp4)
+![Sandox Game](https://raw.githubusercontent.com/CasienDetra/SandBox-Ebitengine/main/assets/lol.mp4)
 
 # Installation
 
